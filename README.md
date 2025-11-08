@@ -1,1 +1,1 @@
-# ECE-1310-Project
+# Habit Crab (ECE-1310-Project)
